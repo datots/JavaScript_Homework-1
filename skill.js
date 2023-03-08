@@ -29,9 +29,9 @@
 
 // console.log(convertor(farenheit));
 
-// let a = prompt('Enter first Number');
+// let a = Number(prompt('first number: '));
 // let operator = prompt('Enter Operator: ');
-// let b = prompt('Enter second Number');
+// let b = Number(prompt('second number: '));
 
 // function calculator(a,b,operator){
       
